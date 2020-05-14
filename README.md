@@ -15,3 +15,6 @@ Hallo das ist eine README Datei!
 
 > Schlagzeug
 > Feuerwehr
+
+![Baum](https://github.com/TimMauchDerLustige/Einkaufsliste/blob/master/1_DSCF6628 5.jpeg | width = 100)
+
