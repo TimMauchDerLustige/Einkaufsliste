@@ -15,3 +15,10 @@ Hallo das ist eine README Datei!
 
 > Schlagzeug  
 > Feuerwehr
+
+### ToDo
+
+- [x] Einkaufsliste schreiben
+- [x] Aufgaben fertig machen
+- [ ] ?
+- [ ] Profit!
