@@ -17,4 +17,4 @@ Hallo das ist eine README Datei!
 > Feuerwehr
 
 ## Bild
-<img src="https://github.com/TimMauchDerLustige/Einkaufsliste/blob/Lebenslauf3/1_DSCF6628%205.jpeg" "width=100">
+<img src="https://github.com/TimMauchDerLustige/Einkaufsliste/blob/Lebenslauf3/1_DSCF6628%205.jpeg" width="100">
